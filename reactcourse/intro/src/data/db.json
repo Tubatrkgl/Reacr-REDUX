@@ -1,0 +1,129 @@
+{
+    "products": [
+      {
+        "categoryId": "3",
+        "productName": "Justin Blick",
+        "quantityPerUnit": 13633,
+        "unitPrice": "642.00",
+        "unitsInStock": "843",
+        "id": "1"
+      },
+      {
+        "categoryId": "9",
+        "productName": "Tanya Schmitt",
+        "quantityPerUnit": 62879,
+        "unitPrice": "744.00",
+        "unitsInStock": "4514",
+        "id": "2"
+      },
+      {
+        "categoryId": "3",
+        "productName": "Dr. Ernesto MacGyver",
+        "quantityPerUnit": 37835,
+        "unitPrice": "794.00",
+        "unitsInStock": "57850",
+        "id": "3"
+      },
+      {
+        "categoryId": "6",
+        "productName": "Darrin Aufderhar DDS",
+        "quantityPerUnit": 48446,
+        "unitPrice": "72.00",
+        "unitsInStock": "364",
+        "id": "4"
+      },
+      {
+        "categoryId": "8",
+        "productName": "Shelly Smitham",
+        "quantityPerUnit": 93607,
+        "unitPrice": "67.00",
+        "unitsInStock": "1255",
+        "id": "5"
+      },
+      {
+        "categoryId": "4",
+        "productName": "Benny Franecki PhD",
+        "quantityPerUnit": 42120,
+        "unitPrice": "474.00",
+        "unitsInStock": "1681",
+        "id": "6"
+      },
+      {
+        "categoryId": "8",
+        "productName": "Charlene Jenkins",
+        "quantityPerUnit": 3791,
+        "unitPrice": "71.00",
+        "unitsInStock": "1991",
+        "id": "7"
+      },
+      {
+        "categoryId": "5",
+        "productName": "Terrence Koch",
+        "quantityPerUnit": 95687,
+        "unitPrice": "714.00",
+        "unitsInStock": "93113",
+        "id": "8"
+      },
+      {
+        "categoryId": "9",
+        "productName": "Frank Franecki",
+        "quantityPerUnit": 21532,
+        "unitPrice": "356.00",
+        "unitsInStock": "030",
+        "id": "9"
+      }
+    ],
+    "categories": [
+      {
+        "categoryName": "Monroe",
+        "seoUrl": "Martamouth",
+        "id": "1"
+      },
+      {
+        "categoryName": "Boca Raton",
+        "seoUrl": "South Gail",
+        "id": "2"
+      },
+      {
+        "categoryName": "East Honolulu",
+        "seoUrl": "New Jarrodton",
+        "id": "3"
+      },
+      {
+        "categoryName": "Weymouth Town",
+        "seoUrl": "Javierside",
+        "id": "4"
+      },
+      {
+        "categoryName": "Rancho Palos Verdes",
+        "seoUrl": "Port Kareemworth",
+        "id": "5"
+      },
+      {
+        "categoryName": "Pico Rivera",
+        "seoUrl": "Jastborough",
+        "id": "6"
+      },
+      {
+        "categoryName": "Janesville",
+        "seoUrl": "Fort Quinnbury",
+        "id": "7"
+      },
+      {
+        "categoryName": "Turlock",
+        "seoUrl": "New Candace",
+        "id": "8"
+      },
+      {
+        "categoryName": "Syracuse",
+        "seoUrl": "South Connor",
+        "id": "9"
+      },
+      {
+        "categoryName": "Royal Oak",
+        "seoUrl": "West Kane",
+        "id": "10"
+      }
+    ]
+  }
+  
